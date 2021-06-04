@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Prasanna
 - 👀 I’m interested in 
 - 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on Open Source
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me by email - prasannapm416@gmail.com
 
 <!---

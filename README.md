@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prasanna
-- 👀 I’m interested in Deep Learning
-- 🌱 I’m currently learning ML
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on Open Source
 - 📫 How to reach me by email - prasannapm416@gmail.com
 
